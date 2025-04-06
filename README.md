@@ -26,4 +26,4 @@
 
 
 
-![snake gif](https://github.com/barath1248/barath1248/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/barath1248/barath1248/blob/output/github-contribution-grid-snake.svg)
