@@ -25,5 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=barath1248&show_icons=true&locale=en" alt="barath1248" /></p>
 
 
-
-![snake gif](https://github.com/barath1248/barath1248/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/barath1248/barath1248/blob/output/github-snake-dark.svg)
