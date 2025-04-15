@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://barath1248.github.io/portfolio/](https://barath1248.github.io/portfolio/)
 
-- 📫 How to reach me **barathrv124@gmail.com**
+- 📫 Email: **barathrv124@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
