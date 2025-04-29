@@ -12,6 +12,7 @@
 - 👨‍💻 All of my projects are available at [https://barath1248.github.io/portfolio/](https://barath1248.github.io/portfolio/)
 
 - 📫 Email: **barathrv124@gmail.com**
+->Spotify clone project is hosted in vercel app
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
