@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **PixVibe(social app)**
+- 🔭 I’m currently working on **PixVibe(Integrated with AI project)**
 
 - 🌱 I’m currently learning **React JS**
 
