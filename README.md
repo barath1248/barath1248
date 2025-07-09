@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on **PixVibe(Integrated with AI project)**
+- 🔭 I’m currently working on **AI based projects**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Next.JS**
 
 - 👨‍💻 All of my projects are available at [https://barath1248.github.io/portfolio/](https://barath1248.github.io/portfolio/)
 
