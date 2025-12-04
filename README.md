@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **AI based projects**
+- 🔭 I’m currently working on **AI based projects and UI/UX**
 
 - 🌱 I’m currently learning **Next.JS**
 
