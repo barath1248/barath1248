@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Barath</h1>
-<h3 align="center">A passionate MERN stack developer from India</h3>
+<h3 align="center">A passionate JAVA Full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barath1248&label=Profile%20views&color=0e75b6&style=flat" alt="barath1248" /> </p>
 
 
 
-- 🔭 I’m currently working on **AI based projects and UI/UX**
+- 🔭 I’m currently working on **Java Projects**
 
-- 🌱 I’m currently learning **Next.JS**
+- 🌱 I’m currently learning **Advance Java**
 
-- 👨‍💻 All of my projects are available at [https://barath1248.github.io/portfolio/](https://barath1248.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://barathrajaportfolio.vercel.app/](https://barathrajaportfolio.vercel.app/)
 
 - 📫 Email: **barathrv124@gmail.com**
 
