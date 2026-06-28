@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Java Developer
 --------------
 
-Java enthusiast with a strong interest in core Java, object-oriented programming, collections, and problem-solving. I enjoy exploring language internals, writing clean code, and continuously improving my software development skills through hands-on practice.
+Java enthusiast with a strong interest in core Java, object-oriented programming, collections,JDBC and problem-solving. I enjoy exploring language internals, writing clean code, and continuously improving my software development skills through hands-on practice.
 
 * 🖥️  See my portfolio at [Portfolio Website](http://barathrajaportfolio.vercel.app/)
 * ✉️  You can contact me at [barathrv124@gmail.com](mailto:barathrv124@gmail.com)
