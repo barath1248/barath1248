@@ -14,6 +14,7 @@
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=F89820&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=110&lines=Code+%3E+Coffee+%3E+Repeat+%E2%98%95;Learning+%E2%80%A2+Building+%E2%80%A2+Growing;Crafting+scalable+full+stack+applications;Turning+ideas+into+working+software" alt="Typing animation"/>
 
+<br/><br/>
 <!-- Visitor counter -->
 <img src="https://komarev.com/ghpvc/?username=barath1248&label=Profile%20Views&color=f89820&style=for-the-badge" alt="Profile views"/>
 
