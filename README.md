@@ -4,12 +4,12 @@
 <div align="center">
 
 <!-- Profile avatar -->
-<img src="https://github.com/barath1248.png" width="160" alt="Barath profile picture"/>
+
 
 <br/><br/>
 
 <!-- Hero title -->
-
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:1a1f2e,100:f89820&height=140&section=header&text=Barath&fontSize=52&fontColor=ffffff&animation=scaleIn&fontAlignY=40&desc=Java%20Full%20Stack%20Developer&descAlignY=68&descSize=20&descColor=e6edf3" width="100%"/>
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=F89820&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=110&lines=Code+%3E+Coffee+%3E+Repeat+%E2%98%95;Learning+%E2%80%A2+Building+%E2%80%A2+Growing;Crafting+scalable+full+stack+applications;Turning+ideas+into+working+software" alt="Typing animation"/>
 
