@@ -15,7 +15,7 @@
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=F89820&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=110&lines=Code+%3E+Coffee+%3E+Repeat+%E2%98%95;Learning+%E2%80%A2+Building+%E2%80%A2+Growing;Crafting+scalable+full+stack+applications;Turning+ideas+into+working+software" alt="Typing animation"/>
 
 <!-- Visitor counter -->
-
+<img src="https://komarev.com/ghpvc/?username=barath1248&label=Profile%20Views&color=f89820&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
@@ -49,7 +49,7 @@ public class Barath {
 
 * 🎯 **Focus:** Scalable web apps & clean backend architecture
 * 🌱 **Learning:** Spring Boot & advanced Java backend
-* 🧩 **Practicing:** Data Structures & Algorithms
+* 🧩 **Practicing:** Java Backend
 * 🚀 **Building:** Real-world full stack projects
 * 🤝 **Open to:** Collaboration, feedback & new opportunities
 
@@ -96,7 +96,7 @@ public class Barath {
 <img src="https://capsule-render.vercel.app/api?type=speech&color=0:0d1117,100:f89820&height=110&section=header&text=Level%20Up%20Mode&fontSize=28&fontColor=fff&animation=blinking&fontAlign=50&fontAlignY=45&desc=Mastering+Java+Full+Stack+Development&descAlign=50&descAlignY=72&descSize=16&descColor=e6edf3" width="100%"/>
 
 </div>
-<img src="https://komarev.com/ghpvc/?username=barath1248&label=Profile%20Views&color=f89820&style=for-the-badge" alt="Profile views"/>
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -105,7 +105,7 @@ public class Barath {
 | --- | --- |
 | Java Full Stack fundamentals | 🟢 In progress |
 | Spring Boot mastery | 🟡 Learning |
-| DSA interview prep | 🟢 Active |
+| Interview prep | 🟢 Active |
 | Real-world project portfolio | 🟢 Building |
 | Git & GitHub workflow | 🟢 Improving |
 
@@ -194,7 +194,7 @@ Projects using Java, React, MySQL, and modern web technologies to sharpen practi
 <div align="center">
 
 <a href="https://github.com/barath1248"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/barath1248"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/rv-barath"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/barath1248"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
