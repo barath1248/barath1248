@@ -38,43 +38,29 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist/Light%20Skin%20Tone/256px/Man_Technologist_Light_Skin_Tone.gif" width="36" align="top"/> About Me
 
+
 <table>
-<tr>
-<td width="55%" valign="top">
-
-```bash
-$ whoami
-> barath1248 — Java Full Stack Developer
-
-$ cat profile.json
-{
-  "role": "Full Stack Engineer in the making",
-  "passion": "Scalable web applications",
-  "learning": ["Spring Boot", "System Design"],
-  "practice": "DSA for interviews",
-  "philosophy": "Learn → Build → Ship → Repeat"
-}
-
-$ git status
-On branch master-the-craft
-  new file:   real_world_projects
-  modified:   backend_skills
-  modified:   frontend_skills
-nothing to commit, still learning...
-```
-
-</td>
-<td width="45%" valign="top" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257794-8828d274-3d90-43be-9400-9314750fe417.gif" width="90%" alt="Developer animation"/>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0a0e14,100:f89820&height=90&section=header&text=Always+Shipping&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=50&stroke=f89820&strokeWidth=2" width="100%"/>
-
-</td>
-</tr>
-</table>
+    <tr>
+    <td width="58%" valign="top">
+    
+    ```java
+    public class Barath {
+      private String role = "Java Full Stack Developer";
+      private String[] focus = {
+        "Java", "Servlets", "JSP", "JDBC",
+        "MySQL", "React"
+      };
+      private String learning = "Spring Boot";
+      private String goal = "Industry-ready engineer";
+    
+      public void build() {
+        while (true) {
+          learn();
+          code();
+          ship();
+        }
+      }
+    }
 
 <br/>
 
@@ -189,37 +175,25 @@ nothing to commit, still learning...
 <br/>
 
 <table>
-<tr>
-<th align="left">Milestone</th>
-<th align="center">Progress</th>
-<th align="center">Status</th>
-</tr>
-<tr>
-<td>Java Full Stack fundamentals</td>
-<td align="center"><img src="https://progress-bar.dev/75/?width=120&color=f89820"/></td>
-<td align="center">🟢 Active</td>
-</tr>
-<tr>
-<td>Spring Boot mastery</td>
-<td align="center"><img src="https://progress-bar.dev/40/?width=120&color=6db33f"/></td>
-<td align="center">🟡 Learning</td>
-</tr>
-<tr>
-<td>DSA interview preparation</td>
-<td align="center"><img src="https://progress-bar.dev/60/?width=120&color=00d4ff"/></td>
-<td align="center">🟢 Active</td>
-</tr>
-<tr>
-<td>Real-world project portfolio</td>
-<td align="center"><img src="https://progress-bar.dev/55/?width=120&color=6366f1"/></td>
-<td align="center">🟢 Building</td>
-</tr>
-<tr>
-<td>Git & GitHub workflow</td>
-<td align="center"><img src="https://progress-bar.dev/80/?width=120&color=f05032"/></td>
-<td align="center">🟢 Improving</td>
-</tr>
-</table>
+    <tr>
+    <td width="50%" valign="top">
+    
+    | Milestone | Status |
+    | --- | --- |
+    | Java Full Stack fundamentals | 🟢 In progress |
+    | Spring Boot mastery | 🟡 Learning |
+    | DSA interview prep | 🟢 Active |
+    | Real-world project portfolio | 🟢 Building |
+    | Git & GitHub workflow | 🟢 Improving |
+    
+    </td>
+    <td width="50%" valign="top" align="center">
+    
+    <img src="https://user-images.githubusercontent.com/74038190/212257797-167a-48f9-8772-774581375770.gif" width="320" alt="Developer working animation"/>
+    
+    </td>
+    </tr>
+    </table>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-84fc0eca-6626-4367-9860-642098a7999a.gif" width="100%" alt="Divider"/>
 
@@ -361,11 +335,5 @@ End-to-end applications using Java, React, MySQL, and modern web technologies �
 
 <br/><br/>
 
-<!-- Contribution snake — auto-generated via .github/workflows/snake.yml -->
-<img src="https://github.com/barath1248/barath1248/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=Made+with+%E2%9D%A4%EF%B8%8F+and+lots+of+coffee;See+you+in+the+next+commit+%F0%9F%91%8B" alt="Footer typing"/>
 
 </div>
