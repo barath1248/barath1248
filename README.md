@@ -213,5 +213,4 @@ Projects using Java, React, MySQL, and modern web technologies to sharpen practi
 
 <br/>
 
-
 </div>
