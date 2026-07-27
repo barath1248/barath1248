@@ -6,7 +6,8 @@
 <!-- Profile avatar -->
 
 
-<br/><br/>
+<br/>
+<br/>
 
 <!-- Hero title -->
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:1a1f2e,100:f89820&height=140&section=header&text=Barath&fontSize=52&fontColor=ffffff&animation=scaleIn&fontAlignY=40&desc=Java%20Full%20Stack%20Developer&descAlignY=68&descSize=20&descColor=e6edf3" width="100%"/>
