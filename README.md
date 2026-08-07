@@ -97,26 +97,6 @@ public class Barath {
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-| Milestone | Status |
-| --- | --- |
-| Java Full Stack fundamentals | 🟢 In progress |
-| Spring Boot mastery | 🟡 Learning |
-| Interview prep | 🟢 Active |
-| Real-world project portfolio | 🟢 Building |
-| Git & GitHub workflow | 🟢 Improving |
-
-</td>
-<td width="50%" valign="top" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257797-167a-48f9-8772-774581375770.gif" width="320" alt="Developer working animation"/>
-
-</td>
-</tr>
-</table>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa47f-39ad-4eae-99a7-5ac8824970ee.gif" width="100%" alt="Divider"/>
 
